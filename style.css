@@ -1,0 +1,51 @@
+#container{
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -o-border-radius: 10px;
+            background: #fff;
+            border-radius: 10px;
+            font-size: 18px;
+            margin: 0 auto;
+            padding: 30px;
+            width: 350px;
+          }
+.campo{
+    border: solid 4px #cece76;
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 35px;
+    width: 300px;
+}
+
+.boton{
+    background: #849175;
+    border: solid 0;
+    color: #fff;
+    padding: 10px;
+}
+
+.errores{
+
+    background: red;
+    color: #fff;
+    display: none;
+    font-size: 14px;
+    margin-top: -80px;
+    margin-left: 340px;
+    padding: 10px;
+    position: absolute;
+}
+
+hr{
+    background-color: dodgerblue;
+    padding: 3px;
+}
+
+.btn{
+    width: 70%;
+}
+
+body{
+    background-image: url(../img/contacto.png);
+    width: 100%;
+}
